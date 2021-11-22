@@ -1,7 +1,7 @@
 import time
 
 
-print(" THIS IS ROACHANESE BITCH ")
+print(" THIS IS ROACHANESE ")
 while (0<1):
     print(" ")
     x=input("\n hello pls tell me what should i convert to roachanese : " )

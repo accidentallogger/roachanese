@@ -1,5 +1,5 @@
 # roachanese
-converts basic english into roachanese is a meme language 
+converts basic english into roachanese.
 
 roachanese is a meme language inspired by the subreddit r/rgbroachgang 
 
